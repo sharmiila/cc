@@ -1,0 +1,1 @@
+print("Welcome to SSM Institute of Engineering and Technology!!!!!");
